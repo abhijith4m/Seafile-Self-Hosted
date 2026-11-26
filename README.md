@@ -24,6 +24,7 @@ The deployment provides a self-hosted file collaboration environment using conta
 ## Deployment Screenshot
 
 ![Seafile Dashboard](screenshots/seafile-dashboard.png)
+
 ## Architecture
 
 ```mermaid

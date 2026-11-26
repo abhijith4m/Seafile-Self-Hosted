@@ -20,7 +20,10 @@ The deployment provides a self-hosted file collaboration environment using conta
 - Seadoc collaborative document service
 - Persistent container storage
 - Container health checks and service dependencies
+- 
+## Deployment Screenshot
 
+![Seafile Dashboard](screenshots/seafile-dashboard.png)
 ## Architecture
 
 ```mermaid
